@@ -1,2 +1,2 @@
 # Crowdfunding_ETL
-For the ETL mini project
+For the ETL mini project - Partner Colleen Karwoski
